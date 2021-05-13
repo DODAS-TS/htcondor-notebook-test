@@ -16,4 +16,4 @@ ENV _condor_SCITOKENS_FILE=/tmp/token
 ENV _condot_TOOL_DEBUG=D_FULLDEBUG,D_SECURITY
 
 ENV _condor_COLLECTOR_HOST=131.154.97.120.myip.cloud.infn.it:30618
-ENV _condor_SCHEDD_HOST=schedd.cert-manager.svc.cluster.local
+ENV _condor_SCHEDD_HOST=131.154.97.120.myip.cloud.infn.it
